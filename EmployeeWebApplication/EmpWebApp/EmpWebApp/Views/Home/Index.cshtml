@@ -1,0 +1,24 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<main>
+    <section class="row">
+        <h1 id="title">Welcome to Employee Management System</h1>
+        <p class="lead">Manage your employees, roles, and role mappings efficiently with our easy-to-use interface.</p>
+        <p><a href="@Url.Action("Index", "Employee")" class="btn btn-primary btn-md">View Employees</a></p>
+    </section>
+
+    <div class="row">
+        <section class="col-md-4">
+            <h2>Getting Started</h2>
+            <p>ASP.NET MVC provides a clean separation of concerns, allowing for efficient web application development.</p>
+            <p><a class="btn btn-outline-dark" href="@Url.Action("About", "Home")">Learn more &raquo;</a></p>
+        </section>
+        <section class="col-md-4">
+            <h2>Explore More</h2>
+            <p>Discover additional features and capabilities of our application through the provided links.</p>
+            <p><a class="btn btn-outline-dark" href="@Url.Action("Contact", "Home")">Contact Us &raquo;</a></p>
+        </section>
+    </div>
+</main>

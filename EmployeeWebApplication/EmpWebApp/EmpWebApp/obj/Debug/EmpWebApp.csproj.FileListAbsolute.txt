@@ -1,0 +1,4 @@
+D:\ASP.NET\Git Repo 1078\EmployeeWebApplication\EmpWebApp\EmpWebApp\obj\Debug\EmpWebApp.csproj.AssemblyReference.cache
+D:\ASP.NET\Git Repo 1078\EmployeeWebApplication\EmpWebApp\EmpWebApp\obj\Debug\EmpWebApp.Migrations.InitialCreate.resources
+D:\ASP.NET\Git Repo 1078\EmployeeWebApplication\EmpWebApp\EmpWebApp\obj\Debug\EmpWebApp.csproj.GenerateResource.cache
+D:\ASP.NET\Git Repo 1078\EmployeeWebApplication\EmpWebApp\EmpWebApp\obj\Debug\EmpWebApp.csproj.CoreCompileInputs.cache

@@ -1,0 +1,303 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ASP.NET\\Git Repo 1078\\EmployeeWebApplication\\EmpWebApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{391B8144-A77C-46A4-8D3C-E0304BC86312}|EmpWebApp\\EmpWebApp.csproj|d:\\asp.net\\git repo 1078\\employeewebapplication\\empwebapp\\empwebapp\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{391B8144-A77C-46A4-8D3C-E0304BC86312}|EmpWebApp\\EmpWebApp.csproj|solutionrelative:empwebapp\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{391B8144-A77C-46A4-8D3C-E0304BC86312}|EmpWebApp\\EmpWebApp.csproj|D:\\ASP.NET\\Git Repo 1078\\EmployeeWebApplication\\EmpWebApp\\empwebapp\\views\\employee\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{391B8144-A77C-46A4-8D3C-E0304BC86312}|EmpWebApp\\EmpWebApp.csproj|solutionrelative:empwebapp\\views\\employee\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{391B8144-A77C-46A4-8D3C-E0304BC86312}|EmpWebApp\\EmpWebApp.csproj|D:\\ASP.NET\\Git Repo 1078\\EmployeeWebApplication\\EmpWebApp\\empwebapp\\views\\employee\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{391B8144-A77C-46A4-8D3C-E0304BC86312}|EmpWebApp\\EmpWebApp.csproj|solutionrelative:empwebapp\\views\\employee\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{391B8144-A77C-46A4-8D3C-E0304BC86312}|EmpWebApp\\EmpWebApp.csproj|D:\\ASP.NET\\Git Repo 1078\\EmployeeWebApplication\\EmpWebApp\\empwebapp\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{391B8144-A77C-46A4-8D3C-E0304BC86312}|EmpWebApp\\EmpWebApp.csproj|solutionrelative:empwebapp\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{391B8144-A77C-46A4-8D3C-E0304BC86312}|EmpWebApp\\EmpWebApp.csproj|D:\\ASP.NET\\Git Repo 1078\\EmployeeWebApplication\\EmpWebApp\\empwebapp\\views\\home\\useremployeelist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{391B8144-A77C-46A4-8D3C-E0304BC86312}|EmpWebApp\\EmpWebApp.csproj|solutionrelative:empwebapp\\views\\home\\useremployeelist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{391B8144-A77C-46A4-8D3C-E0304BC86312}|EmpWebApp\\EmpWebApp.csproj|D:\\ASP.NET\\Git Repo 1078\\EmployeeWebApplication\\EmpWebApp\\empwebapp\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{391B8144-A77C-46A4-8D3C-E0304BC86312}|EmpWebApp\\EmpWebApp.csproj|solutionrelative:empwebapp\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{391B8144-A77C-46A4-8D3C-E0304BC86312}|EmpWebApp\\EmpWebApp.csproj|D:\\ASP.NET\\Git Repo 1078\\EmployeeWebApplication\\EmpWebApp\\empwebapp\\views\\home\\adminemployeelist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{391B8144-A77C-46A4-8D3C-E0304BC86312}|EmpWebApp\\EmpWebApp.csproj|solutionrelative:empwebapp\\views\\home\\adminemployeelist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{391B8144-A77C-46A4-8D3C-E0304BC86312}|EmpWebApp\\EmpWebApp.csproj|D:\\ASP.NET\\Git Repo 1078\\EmployeeWebApplication\\EmpWebApp\\empwebapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{391B8144-A77C-46A4-8D3C-E0304BC86312}|EmpWebApp\\EmpWebApp.csproj|solutionrelative:empwebapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{391B8144-A77C-46A4-8D3C-E0304BC86312}|EmpWebApp\\EmpWebApp.csproj|D:\\ASP.NET\\Git Repo 1078\\EmployeeWebApplication\\EmpWebApp\\empwebapp\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{391B8144-A77C-46A4-8D3C-E0304BC86312}|EmpWebApp\\EmpWebApp.csproj|solutionrelative:empwebapp\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{391B8144-A77C-46A4-8D3C-E0304BC86312}|EmpWebApp\\EmpWebApp.csproj|D:\\ASP.NET\\Git Repo 1078\\EmployeeWebApplication\\EmpWebApp\\empwebapp\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{391B8144-A77C-46A4-8D3C-E0304BC86312}|EmpWebApp\\EmpWebApp.csproj|solutionrelative:empwebapp\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{391B8144-A77C-46A4-8D3C-E0304BC86312}|EmpWebApp\\EmpWebApp.csproj|D:\\ASP.NET\\Git Repo 1078\\EmployeeWebApplication\\EmpWebApp\\empwebapp\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{391B8144-A77C-46A4-8D3C-E0304BC86312}|EmpWebApp\\EmpWebApp.csproj|solutionrelative:empwebapp\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{391B8144-A77C-46A4-8D3C-E0304BC86312}|EmpWebApp\\EmpWebApp.csproj|D:\\ASP.NET\\Git Repo 1078\\EmployeeWebApplication\\EmpWebApp\\empwebapp\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{391B8144-A77C-46A4-8D3C-E0304BC86312}|EmpWebApp\\EmpWebApp.csproj|solutionrelative:empwebapp\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{391B8144-A77C-46A4-8D3C-E0304BC86312}|EmpWebApp\\EmpWebApp.csproj|D:\\ASP.NET\\Git Repo 1078\\EmployeeWebApplication\\EmpWebApp\\empwebapp\\models\\employeerole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{391B8144-A77C-46A4-8D3C-E0304BC86312}|EmpWebApp\\EmpWebApp.csproj|solutionrelative:empwebapp\\models\\employeerole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{391B8144-A77C-46A4-8D3C-E0304BC86312}|EmpWebApp\\EmpWebApp.csproj|D:\\ASP.NET\\Git Repo 1078\\EmployeeWebApplication\\EmpWebApp\\empwebapp\\models\\employeerolemapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{391B8144-A77C-46A4-8D3C-E0304BC86312}|EmpWebApp\\EmpWebApp.csproj|solutionrelative:empwebapp\\models\\employeerolemapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{391B8144-A77C-46A4-8D3C-E0304BC86312}|EmpWebApp\\EmpWebApp.csproj|D:\\ASP.NET\\Git Repo 1078\\EmployeeWebApplication\\EmpWebApp\\empwebapp\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{391B8144-A77C-46A4-8D3C-E0304BC86312}|EmpWebApp\\EmpWebApp.csproj|solutionrelative:empwebapp\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 119,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\ASP.NET\\Git Repo 1078\\EmployeeWebApplication\\EmpWebApp\\EmpWebApp\\Views\\Employee\\Index.cshtml",
+              "RelativeDocumentMoniker": "EmpWebApp\\Views\\Employee\\Index.cshtml",
+              "ToolTip": "D:\\ASP.NET\\Git Repo 1078\\EmployeeWebApplication\\EmpWebApp\\EmpWebApp\\Views\\Employee\\Index.cshtml",
+              "RelativeToolTip": "EmpWebApp\\Views\\Employee\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-09T12:44:07.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\ASP.NET\\Git Repo 1078\\EmployeeWebApplication\\EmpWebApp\\EmpWebApp\\Views\\Employee\\Delete.cshtml",
+              "RelativeDocumentMoniker": "EmpWebApp\\Views\\Employee\\Delete.cshtml",
+              "ToolTip": "D:\\ASP.NET\\Git Repo 1078\\EmployeeWebApplication\\EmpWebApp\\EmpWebApp\\Views\\Employee\\Delete.cshtml",
+              "RelativeToolTip": "EmpWebApp\\Views\\Employee\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-09T12:43:57.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\ASP.NET\\Git Repo 1078\\EmployeeWebApplication\\EmpWebApp\\EmpWebApp\\Views\\Employee\\Edit.cshtml",
+              "RelativeDocumentMoniker": "EmpWebApp\\Views\\Employee\\Edit.cshtml",
+              "ToolTip": "D:\\ASP.NET\\Git Repo 1078\\EmployeeWebApplication\\EmpWebApp\\EmpWebApp\\Views\\Employee\\Edit.cshtml",
+              "RelativeToolTip": "EmpWebApp\\Views\\Employee\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-09T12:42:46.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\ASP.NET\\Git Repo 1078\\EmployeeWebApplication\\EmpWebApp\\EmpWebApp\\Views\\Employee\\Create.cshtml",
+              "RelativeDocumentMoniker": "EmpWebApp\\Views\\Employee\\Create.cshtml",
+              "ToolTip": "D:\\ASP.NET\\Git Repo 1078\\EmployeeWebApplication\\EmpWebApp\\EmpWebApp\\Views\\Employee\\Create.cshtml",
+              "RelativeToolTip": "EmpWebApp\\Views\\Employee\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-09T12:42:11.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "D:\\ASP.NET\\Git Repo 1078\\EmployeeWebApplication\\EmpWebApp\\EmpWebApp\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "EmpWebApp\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "D:\\ASP.NET\\Git Repo 1078\\EmployeeWebApplication\\EmpWebApp\\EmpWebApp\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "EmpWebApp\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-09T12:41:12.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserEmployeeList.cshtml",
+              "DocumentMoniker": "D:\\ASP.NET\\Git Repo 1078\\EmployeeWebApplication\\EmpWebApp\\EmpWebApp\\Views\\Home\\UserEmployeeList.cshtml",
+              "RelativeDocumentMoniker": "EmpWebApp\\Views\\Home\\UserEmployeeList.cshtml",
+              "ToolTip": "D:\\ASP.NET\\Git Repo 1078\\EmployeeWebApplication\\EmpWebApp\\EmpWebApp\\Views\\Home\\UserEmployeeList.cshtml",
+              "RelativeToolTip": "EmpWebApp\\Views\\Home\\UserEmployeeList.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-09T12:40:09.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AdminEmployeeList.cshtml",
+              "DocumentMoniker": "D:\\ASP.NET\\Git Repo 1078\\EmployeeWebApplication\\EmpWebApp\\EmpWebApp\\Views\\Home\\AdminEmployeeList.cshtml",
+              "RelativeDocumentMoniker": "EmpWebApp\\Views\\Home\\AdminEmployeeList.cshtml",
+              "ToolTip": "D:\\ASP.NET\\Git Repo 1078\\EmployeeWebApplication\\EmpWebApp\\EmpWebApp\\Views\\Home\\AdminEmployeeList.cshtml",
+              "RelativeToolTip": "EmpWebApp\\Views\\Home\\AdminEmployeeList.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-09T12:39:40.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "D:\\ASP.NET\\Git Repo 1078\\EmployeeWebApplication\\EmpWebApp\\EmpWebApp\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "EmpWebApp\\Models\\ApplicationUser.cs",
+              "ToolTip": "D:\\ASP.NET\\Git Repo 1078\\EmployeeWebApplication\\EmpWebApp\\EmpWebApp\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "EmpWebApp\\Models\\ApplicationUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T12:35:21.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Department.cs",
+              "DocumentMoniker": "D:\\ASP.NET\\Git Repo 1078\\EmployeeWebApplication\\EmpWebApp\\EmpWebApp\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "EmpWebApp\\Models\\Department.cs",
+              "ToolTip": "D:\\ASP.NET\\Git Repo 1078\\EmployeeWebApplication\\EmpWebApp\\EmpWebApp\\Models\\Department.cs",
+              "RelativeToolTip": "EmpWebApp\\Models\\Department.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T12:17:40.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\ASP.NET\\Git Repo 1078\\EmployeeWebApplication\\EmpWebApp\\EmpWebApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "EmpWebApp\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\ASP.NET\\Git Repo 1078\\EmployeeWebApplication\\EmpWebApp\\EmpWebApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "EmpWebApp\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAA/wKMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T12:13:47.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\ASP.NET\\Git Repo 1078\\EmployeeWebApplication\\EmpWebApp\\EmpWebApp\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "EmpWebApp\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\ASP.NET\\Git Repo 1078\\EmployeeWebApplication\\EmpWebApp\\EmpWebApp\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "EmpWebApp\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T12:13:19.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EmployeeRoleMapping.cs",
+              "DocumentMoniker": "D:\\ASP.NET\\Git Repo 1078\\EmployeeWebApplication\\EmpWebApp\\EmpWebApp\\Models\\EmployeeRoleMapping.cs",
+              "RelativeDocumentMoniker": "EmpWebApp\\Models\\EmployeeRoleMapping.cs",
+              "ToolTip": "D:\\ASP.NET\\Git Repo 1078\\EmployeeWebApplication\\EmpWebApp\\EmpWebApp\\Models\\EmployeeRoleMapping.cs",
+              "RelativeToolTip": "EmpWebApp\\Models\\EmployeeRoleMapping.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T12:13:02.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EmployeeRole.cs",
+              "DocumentMoniker": "D:\\ASP.NET\\Git Repo 1078\\EmployeeWebApplication\\EmpWebApp\\EmpWebApp\\Models\\EmployeeRole.cs",
+              "RelativeDocumentMoniker": "EmpWebApp\\Models\\EmployeeRole.cs",
+              "ToolTip": "D:\\ASP.NET\\Git Repo 1078\\EmployeeWebApplication\\EmpWebApp\\EmpWebApp\\Models\\EmployeeRole.cs",
+              "RelativeToolTip": "EmpWebApp\\Models\\EmployeeRole.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T12:12:48.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\ASP.NET\\Git Repo 1078\\EmployeeWebApplication\\EmpWebApp\\EmpWebApp\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "EmpWebApp\\Models\\Employee.cs",
+              "ToolTip": "D:\\ASP.NET\\Git Repo 1078\\EmployeeWebApplication\\EmpWebApp\\EmpWebApp\\Models\\Employee.cs",
+              "RelativeToolTip": "EmpWebApp\\Models\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAowBIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T12:12:29.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "D:\\ASP.NET\\Git Repo 1078\\EmployeeWebApplication\\EmpWebApp\\EmpWebApp\\Models\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "EmpWebApp\\Models\\LoginViewModel.cs",
+              "ToolTip": "D:\\ASP.NET\\Git Repo 1078\\EmployeeWebApplication\\EmpWebApp\\EmpWebApp\\Models\\LoginViewModel.cs",
+              "RelativeToolTip": "EmpWebApp\\Models\\LoginViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T10:33:44.062Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 288,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

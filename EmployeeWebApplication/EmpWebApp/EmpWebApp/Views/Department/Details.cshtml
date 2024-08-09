@@ -1,0 +1,24 @@
+﻿@model EmpWebApp.Models.Department
+
+@{
+    ViewBag.Title = "Department Details";
+}
+
+<h2>Department Details</h2>
+
+<div>
+    <h4>Department</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.DepartmentName)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.DepartmentName)
+        </dd>
+    </dl>
+    <p>
+        @Html.ActionLink("Edit", "Edit", new { id = Model.DepartmentId, @class = "btn btn-warning" }) |
+        @Html.ActionLink("Back to List", "Index", new { @class = "btn btn-primary" })
+    </p>
+</div>

@@ -1,0 +1,25 @@
+﻿@model EmpWebApp.Models.EmployeeRole
+
+@{
+    ViewBag.Title = "Employee Role Details";
+}
+
+<h2>Employee Role Details</h2>
+
+<div>
+    <h4>EmployeeRole</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.RoleName)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.RoleName)
+        </dd>
+    </dl>
+</div>
+
+<div>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.RoleId }) |
+    @Html.ActionLink("Back to List", "Index")
+</div>

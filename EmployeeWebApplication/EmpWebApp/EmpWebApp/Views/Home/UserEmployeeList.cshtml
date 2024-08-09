@@ -1,0 +1,25 @@
+﻿@model IEnumerable<EmpWebApp.Models.Employee>
+
+@{
+    ViewBag.Title = "User Employee List";
+}
+
+<h2>User Employee List</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Department</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Name</td>
+                <td>@item.Department.DepartmentName</td>
+            </tr>
+        }
+    </tbody>
+</table>

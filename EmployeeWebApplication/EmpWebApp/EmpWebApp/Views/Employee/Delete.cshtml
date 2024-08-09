@@ -1,0 +1,28 @@
+﻿@model EmpWebApp.Models.Employee
+
+@{
+    ViewBag.Title = "Delete Employee";
+}
+
+<h2>Delete Employee</h2>
+
+<div>
+    <h4>Employee</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>Name</dt>
+        <dd>@Model.Name</dd>
+
+        <dt>Department</dt>
+        <dd>@Model.Department.DepartmentName</dd>
+    </dl>
+
+    @using (Html.BeginForm("DeleteConfirmed", "Home", FormMethod.Post))
+    {
+        @Html.AntiForgeryToken()
+
+        <input type="hidden" name="id" value="@Model.EmployeeId" />
+        <input type="submit" value="Delete" class="btn btn-danger" />
+        @Html.ActionLink("Cancel", "Index", null, new { @class = "btn btn-default" })
+    }
+</div>

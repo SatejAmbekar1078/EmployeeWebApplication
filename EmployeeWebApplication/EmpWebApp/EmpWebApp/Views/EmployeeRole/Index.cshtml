@@ -1,0 +1,33 @@
+﻿@model IEnumerable<EmpWebApp.Models.EmployeeRole>
+
+@{
+    ViewBag.Title = "Employee Roles";
+}
+
+<h2>Employee Roles</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Role Name</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@Html.DisplayFor(modelItem => item.RoleName)</td>
+                <td>
+                    @Html.ActionLink("Edit", "Edit", new { id = item.RoleId }) |
+                    @Html.ActionLink("Details", "Details", new { id = item.RoleId }) |
+                    @Html.ActionLink("Delete", "Delete", new { id = item.RoleId })
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

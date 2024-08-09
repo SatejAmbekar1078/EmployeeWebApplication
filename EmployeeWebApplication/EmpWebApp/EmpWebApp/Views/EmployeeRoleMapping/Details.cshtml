@@ -1,0 +1,36 @@
+﻿@model EmpWebApp.Models.EmployeeRoleMapping
+
+@{
+    ViewBag.Title = "Employee Role Mapping Details";
+}
+
+<h2>Employee Role Mapping Details</h2>
+
+<div>
+    <h4>Employee Role Mapping</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            Employee
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Employee.FirstName) @Html.DisplayFor(model => model.Employee.LastName)
+        </dd>
+        <dt>
+            Role
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.EmployeeRole.RoleName)
+        </dd>
+        <dt>
+            Assigned At
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.AssignedAt.ToShortDateString())
+        </dd>
+    </dl>
+    <p>
+        @Html.ActionLink("Edit", "Edit", new { id = Model.EmployeeId, roleId = Model.RoleId, @class = "btn btn-warning" }) |
+        @Html.ActionLink("Back to List", "Index", new { @class = "btn btn-primary" })
+    </p>
+</div>

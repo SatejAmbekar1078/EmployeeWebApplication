@@ -1,0 +1,55 @@
+﻿@model EmpWebApp.Models.Employee
+
+@{
+    ViewBag.Title = "Create Employee";
+}
+
+<h2>Create Employee</h2>
+
+@using (Html.BeginForm("Create", "Home", FormMethod.Post))
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-horizontal">
+        <h4>Employee</h4>
+        <hr />
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Name, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.TextBoxFor(model => model.Name, new { @class = "form-control" })
+                @Html.ValidationMessageFor(model => model.Name, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.DepartmentId, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.DropDownListFor(model => model.DepartmentId, (SelectList)ViewBag.DepartmentId, "-- Select Department --", new { @class = "form-control" })
+                @Html.ValidationMessageFor(model => model.DepartmentId, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            <label class="control-label col-md-2">Roles</label>
+            <div class="col-md-10">
+                @foreach (var role in (SelectList)ViewBag.EmployeeRoleId)
+                {
+                    <div class="checkbox">
+                        <label>
+                            <input type="checkbox" name="selectedRoles" value="@role.Value" /> @role.Text
+                        </label>
+                    </div>
+                }
+                @Html.ValidationMessageFor(model => model.EmployeeRoleMappings, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Create" class="btn btn-default" />
+            </div>
+        </div>
+    </div>
+}

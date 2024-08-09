@@ -1,0 +1,49 @@
+﻿@model IEnumerable<EmpWebApp.Models.EmployeeRoleMapping>
+
+@{
+    ViewBag.Title = "Employee Role Mappings";
+}
+
+<h2>Employee Role Mappings</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create", new { @class = "btn btn-primary" })
+</p>
+
+<table class="table table-bordered table-striped">
+    <thead>
+        <tr>
+            <th>
+                Employee
+            </th>
+            <th>
+                Role
+            </th>
+            <th>
+                Assigned At
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Employee.FirstName) @Html.DisplayFor(modelItem => item.Employee.LastName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.EmployeeRole.RoleName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.AssignedAt.ToShortDateString())
+                </td>
+                <td>
+                    @Html.ActionLink("Edit", "Edit", new { id = item.EmployeeId, @class = "btn btn-warning" }) |
+                    @Html.ActionLink("Details", "Details", new { id = item.EmployeeId, @class = "btn btn-info" }) |
+                    @Html.ActionLink("Delete", "Delete", new { id = item.EmployeeId, @class = "btn btn-danger" })
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
